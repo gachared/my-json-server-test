@@ -1,11 +1,10 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "hello"
+        "staff_member": "tanaka",
+        "total_sales": "27540"
+    },
+    {
+        "staff_member": "yoshino",
+        "total_sales": "2119"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
