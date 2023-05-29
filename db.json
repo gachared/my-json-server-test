@@ -1,44 +1,46 @@
 {
-    "totalSales": [
-        {
-            "option": {
-                "dateFrom": "2023-01-01",
-                "dateTo": "2023-01-31",
-                "brands": "trx,mpro"
-            },
-            "staff": [
-                {
-                    "tanaka": {
-                        "trx": 50000,
-                        "mpro": 50000
-                    },
-                    "yoshida": {
-                        "trx": 50000,
-                        "mpro": 50000
-                    }
-                }
+    "totalSales": {
+        "option": {
+            "dateFrom": "2023-01-01",
+            "dateTo": "2023-01-31",
+            "brands": [
+                "trx",
+                "mpro"
             ]
-        }
-    ],
-    "totalOrders": [
-        {
-            "option": {
-                "dateFrom": "2023-01-01",
-                "dateTo": "2023-01-31",
-                "brands": "trx,mpro"
-            },
-            "staff": [
-                {
-                    "tanaka": {
-                        "total": 7,
-                        "new": 3
-                    },
-                    "yoshida": {
-                        "total": 10,
-                        "new": 5
-                    }
+        },
+        "staff": [
+            {
+                "tanaka": {
+                    "trx": 50000,
+                    "mpro": 50000
+                },
+                "yoshida": {
+                    "trx": 50000,
+                    "mpro": 50000
                 }
+            }
+        ]
+    },
+    "totalOrders": {
+        "option": {
+            "dateFrom": "2023-01-01",
+            "dateTo": "2023-01-31",
+            "brands": [
+                "trx",
+                "mpro"
             ]
-        }
-    ]
+        },
+        "staff": [
+            {
+                "tanaka": {
+                    "total": 7,
+                    "new": 3
+                },
+                "yoshida": {
+                    "total": 10,
+                    "new": 5
+                }
+            }
+        ]
+    }
 }
