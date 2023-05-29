@@ -11,10 +11,12 @@
         "staff": [
             {
                 "tanaka": {
+                    "id":3,
                     "trx": 50000,
                     "mpro": 50000
                 },
                 "yoshida": {
+                    "id": 5,
                     "trx": 50000,
                     "mpro": 50000
                 }
