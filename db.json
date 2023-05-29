@@ -23,6 +23,18 @@
                 "morrys": 1000,
                 "other": 1190
             }
+        },
+        {
+            "staff_member": "Piqué",
+            "total_sales": 15000,
+            "orders": 6,
+            "new_orders": 6,
+            "brand_sales": {
+                "trx": 4000,
+                "mpro": 4000,
+                "morrys": 4000,
+                "other": 3000
+            }
         }
     ]
 }
