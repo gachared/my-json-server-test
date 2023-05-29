@@ -20,7 +20,7 @@
         }
     ],
     
-    "orderSales": [
+    "totalOrders": [
         {
             "staff": "tanaka",
             "orders": {
