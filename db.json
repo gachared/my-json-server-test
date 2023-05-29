@@ -1,11 +1,8 @@
 {
-    "wabs": [
+    "totalSales": [
         {
-            "staff_member": "tanaka",
-            "total_sales": 27540,
-            "orders": 7,
-            "new_orders": 3,
-            "brand_sales": {
+            "staff": "tanaka",
+            "brands": {
                 "trx": 12000,
                 "mpro": 7540,
                 "morrys": 7000,
@@ -13,16 +10,31 @@
             }
         },
         {
-            "staff_member": "yoshino",
-            "total_sales": 2119,
-            "orders": 2,
-            "new_orders": 0,
-            "brand_sales": {
+            "staff": "yoshino",
+            "brands": {
                 "trx": 0,
                 "mpro": 0,
                 "morrys": 1000,
                 "other": 1190
             }
         }
+    ],
+    
+    "orderSales": [
+        {
+            "staff": "tanaka",
+            "orders": {
+                "repeat": 7,
+                "new": 3
+            }
+        },
+        {
+            "staff": "yoshino",
+            "orders": {
+                "repeat": 3,
+                "new": 0
+            }
+        }
     ]
+
 }
