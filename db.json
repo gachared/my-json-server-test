@@ -1,40 +1,44 @@
 {
-    "wabs": [
+    "totalSales": [
         {
-            "staff_member": "tanaka",
-            "total_sales": 27540,
-            "orders": 7,
-            "new_orders": 3,
-            "brand_sales": {
-                "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
-            }
-        },
+            "option": {
+                "dateFrom": "2023-01-01",
+                "dateTo": "2023-01-31",
+                "brands": "trx,mpro"
+            },
+            "staff": [
+                {
+                    "tanaka": {
+                        "trx": 50000,
+                        "mpro": 50000
+                    },
+                    "yoshida": {
+                        "trx": 50000,
+                        "mpro": 50000
+                    }
+                }
+            ]
+        }
+    ],
+    "totalOrders": [
         {
-            "staff_member": "yoshino",
-            "total_sales": 2119,
-            "orders": 2,
-            "new_orders": 0,
-            "brand_sales": {
-                "trx": 0,
-                "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
-            }
-        },
-        {
-            "staff_member": "Piqué",
-            "total_sales": 15000,
-            "orders": 6,
-            "new_orders": 6,
-            "brand_sales": {
-                "trx": 4000,
-                "mpro": 4000,
-                "morrys": 4000,
-                "other": 3000
-            }
+            "option": {
+                "dateFrom": "2023-01-01",
+                "dateTo": "2023-01-31",
+                "brands": "trx,mpro"
+            },
+            "staff": [
+                {
+                    "tanaka": {
+                        "total": 7,
+                        "new": 3
+                    },
+                    "yoshida": {
+                        "total": 10,
+                        "new": 5
+                    }
+                }
+            ]
         }
     ]
 }
