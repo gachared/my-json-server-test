@@ -17,10 +17,133 @@
                 "morrys": 1000,
                 "other": 1190
             }
+        },
+        {
+            "staff": "tanaka",
+            "brands": {
+                "trx": 12000,
+                "mpro": 7540,
+                "morrys": 7000,
+                "other": 1000
+            }
+        },
+        {
+            "staff": "yoshino",
+            "brands": {
+                "trx": 0,
+                "mpro": 0,
+                "morrys": 1000,
+                "other": 1190
+            }
+        },
+        {
+            "staff": "tanaka",
+            "brands": {
+                "trx": 12000,
+                "mpro": 7540,
+                "morrys": 7000,
+                "other": 1000
+            }
+        },
+        {
+            "staff": "yoshino",
+            "brands": {
+                "trx": 0,
+                "mpro": 0,
+                "morrys": 1000,
+                "other": 1190
+            }
+        },
+        {
+            "staff": "tanaka",
+            "brands": {
+                "trx": 12000,
+                "mpro": 7540,
+                "morrys": 7000,
+                "other": 1000
+            }
+        },
+        {
+            "staff": "yoshino",
+            "brands": {
+                "trx": 0,
+                "mpro": 0,
+                "morrys": 1000,
+                "other": 1190
+            }
         }
     ],
-    
     "totalOrders": [
+        {
+            "staff": "tanaka",
+            "orders": {
+                "repeat": 7,
+                "new": 3
+            }
+        },
+        {
+            "staff": "yoshino",
+            "orders": {
+                "repeat": 3,
+                "new": 0
+            }
+        },
+        {
+            "staff": "tanaka",
+            "orders": {
+                "repeat": 7,
+                "new": 3
+            }
+        },
+        {
+            "staff": "yoshino",
+            "orders": {
+                "repeat": 3,
+                "new": 0
+            }
+        },
+        {
+            "staff": "tanaka",
+            "orders": {
+                "repeat": 7,
+                "new": 3
+            }
+        },
+        {
+            "staff": "yoshino",
+            "orders": {
+                "repeat": 3,
+                "new": 0
+            }
+        },
+        {
+            "staff": "tanaka",
+            "orders": {
+                "repeat": 7,
+                "new": 3
+            }
+        },
+        {
+            "staff": "yoshino",
+            "orders": {
+                "repeat": 3,
+                "new": 0
+            }
+        },
+        {
+            "staff": "tanaka",
+            "orders": {
+                "repeat": 7,
+                "new": 3
+            }
+        },
+        {
+            "staff": "yoshino",
+            "orders": {
+                "repeat": 3,
+                "new": 0
+            }
+        },
         {
             "staff": "tanaka",
             "orders": {
@@ -36,5 +159,4 @@
             }
         }
     ]
-
 }
