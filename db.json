@@ -2,74 +2,18 @@
     "totalSales": [
         {
             "staff": "tanaka",
-            "brands": {
-                "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
-            }
-        },
-        {
-            "staff": "yoshino",
-            "brands": {
-                "trx": 0,
-                "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
+            "total_sales": {
+                "mpro": 27273,
+                "other": 0,
+                "trx": 0
             }
         },
         {
             "staff": "tanaka",
-            "brands": {
-                "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
-            }
-        },
-        {
-            "staff": "yoshino",
-            "brands": {
-                "trx": 0,
+            "total_sales": {
                 "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
-            }
-        },
-        {
-            "staff": "tanaka",
-            "brands": {
-                "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
-            }
-        },
-        {
-            "staff": "yoshino",
-            "brands": {
-                "trx": 0,
-                "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
-            }
-        },
-        {
-            "staff": "tanaka",
-            "brands": {
-                "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
-            }
-        },
-        {
-            "staff": "yoshino",
-            "brands": {
-                "trx": 0,
-                "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
+                "other": 0,
+                "trx": 12000
             }
         }
     ],
