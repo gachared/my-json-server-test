@@ -1,161 +1,165 @@
 {
     "totalSales": [
         {
-            "staff": "tanaka",
+            "staff": "sato",
             "brands": {
                 "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
+                "mpro": 14000,
+                "morrys": 6000,
+                "other": 2000
             }
         },
         {
-            "staff": "yoshino",
+            "staff": "suzuki",
             "brands": {
-                "trx": 0,
+                "trx": 13000,
                 "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
+                "morrys": 10000,
+                "other": 7000
             }
         },
         {
-            "staff": "tanaka",
+            "staff": "takahashi",
             "brands": {
-                "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
-            }
-        },
-        {
-            "staff": "yoshino",
-            "brands": {
-                "trx": 0,
-                "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
+                "trx": 2000,
+                "mpro": 15000,
+                "morrys": 5000,
+                "other": 5000
             }
         },
         {
             "staff": "tanaka",
             "brands": {
-                "trx": 12000,
-                "mpro": 7540,
+                "trx": 24000,
+                "mpro": 8000,
+                "morrys": 12000,
+                "other": 4000
+            }
+        },
+        {
+            "staff": "watanabe",
+            "brands": {
+                "trx": 9000,
+                "mpro": 18000,
+                "morrys": 5000,
+                "other": 3000
+            }
+        },
+        {
+            "staff": "ito",
+            "brands": {
+                "trx": 10000,
+                "mpro": 20000,
                 "morrys": 7000,
+                "other": 3000
+            }
+        },
+        {
+            "staff": "yamamoto",
+            "brands": {
+                "trx": 16000,
+                "mpro": 0,
+                "morrys": 11000,
+                "other": 4000
+            }
+        },
+        {
+            "staff": "nakamura",
+            "brands": {
+                "trx": 12000,
+                "mpro": 10000,
+                "morrys": 8000,
                 "other": 1000
             }
         },
         {
-            "staff": "yoshino",
+            "staff": "kobayashi",
             "brands": {
-                "trx": 0,
-                "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
+                "trx": 3000,
+                "mpro": 14000,
+                "morrys": 9000,
+                "other": 5000
             }
         },
         {
-            "staff": "tanaka",
+            "staff": "yoshida",
             "brands": {
-                "trx": 12000,
-                "mpro": 7540,
-                "morrys": 7000,
-                "other": 1000
-            }
-        },
-        {
-            "staff": "yoshino",
-            "brands": {
-                "trx": 0,
-                "mpro": 0,
-                "morrys": 1000,
-                "other": 1190
+                "trx": 1000,
+                "mpro": 13000,
+                "morrys": 12000,
+                "other": 6000
             }
         }
     ],
     "totalOrders": [
         {
-            "staff": "tanaka",
+            "staff": "sato",
             "orders": {
                 "repeat": 7,
-                "new": 3
+                "new": 2
             }
         },
         {
-            "staff": "yoshino",
+            "staff": "suzuki",
             "orders": {
                 "repeat": 3,
-                "new": 0
+                "new": 4
             }
         },
         {
-            "staff": "tanaka",
+            "staff": "takahashi",
             "orders": {
-                "repeat": 7,
-                "new": 3
-            }
-        },
-        {
-            "staff": "yoshino",
-            "orders": {
-                "repeat": 3,
-                "new": 0
+                "repeat": 5,
+                "new": 5
             }
         },
         {
             "staff": "tanaka",
             "orders": {
-                "repeat": 7,
+                "repeat": 6,
                 "new": 3
             }
         },
         {
-            "staff": "yoshino",
+            "staff": "watanabe",
             "orders": {
-                "repeat": 3,
-                "new": 0
+                "repeat": 8,
+                "new": 1
             }
         },
         {
-            "staff": "tanaka",
+            "staff": "ito",
             "orders": {
-                "repeat": 7,
+                "repeat": 4,
+                "new": 5
+            }
+        },
+        {
+            "staff": "yamamoto",
+            "orders": {
+                "repeat": 2,
+                "new": 7
+            }
+        },
+        {
+            "staff": "nakamura",
+            "orders": {
+                "repeat": 6,
+                "new": 2
+            }
+        },
+        {
+            "staff": "kobayashi",
+            "orders": {
+                "repeat": 5,
+                "new": 4
+            }
+        },
+        {
+            "staff": "yoshida",
+            "orders": {
+                "repeat": 4,
                 "new": 3
-            }
-        },
-        {
-            "staff": "yoshino",
-            "orders": {
-                "repeat": 3,
-                "new": 0
-            }
-        },
-        {
-            "staff": "tanaka",
-            "orders": {
-                "repeat": 7,
-                "new": 3
-            }
-        },
-        {
-            "staff": "yoshino",
-            "orders": {
-                "repeat": 3,
-                "new": 0
-            }
-        },
-        {
-            "staff": "tanaka",
-            "orders": {
-                "repeat": 7,
-                "new": 3
-            }
-        },
-        {
-            "staff": "yoshino",
-            "orders": {
-                "repeat": 3,
-                "new": 0
             }
         }
     ]
