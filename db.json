@@ -246,77 +246,75 @@
         }
     ],
     "attribute": [
-        [
-            {
-                "staff": "sato",
-                "attr": {
-                    "name": "佐藤 一郎",
-                    "corp": "ARIGATO"
-                }
-            },
-            {
-                "staff": "suzuki",
-                "attr": {
-                    "name": "鈴木 二郎",
-                    "corp": "KIZUNA"
-                }
-            },
-            {
-                "staff": "takahashi",
-                "attr": {
-                    "name": "高橋 三郎",
-                    "corp": "ARIGATO"
-                }
-            },
-            {
-                "staff": "tanaka",
-                "attr": {
-                    "name": "田中 正太",
-                    "corp": "KIZUNA"
-                }
-            },
-            {
-                "staff": "watanabe",
-                "attr": {
-                    "name": "渡辺 五郎",
-                    "corp": "ARIGATO"
-                }
-            },
-            {
-                "staff": "ito",
-                "attr": {
-                    "name": "伊藤 六郎",
-                    "corp": "KIZUNA"
-                }
-            },
-            {
-                "staff": "yamamoto",
-                "attr": {
-                    "name": "山本 七郎",
-                    "corp": "ARIGATO"
-                }
-            },
-            {
-                "staff": "nakamura",
-                "attr": {
-                    "name": "中村 八郎",
-                    "corp": "KIZUNA"
-                }
-            },
-            {
-                "staff": "kobayashi",
-                "attr": {
-                    "name": "小林 九郎",
-                    "corp": "ARIGATO"
-                }
-            },
-            {
-                "staff": "yoshida",
-                "attr": {
-                    "name": "吉田 十郎",
-                    "corp": "KIZUNA"
-                }
+        {
+            "staff": "sato",
+            "attr": {
+                "name": "佐藤 一郎",
+                "corp": "ARIGATO"
             }
-        ]
+        },
+        {
+            "staff": "suzuki",
+            "attr": {
+                "name": "鈴木 二郎",
+                "corp": "KIZUNA"
+            }
+        },
+        {
+            "staff": "takahashi",
+            "attr": {
+                "name": "高橋 三郎",
+                "corp": "ARIGATO"
+            }
+        },
+        {
+            "staff": "tanaka",
+            "attr": {
+                "name": "田中 正太",
+                "corp": "KIZUNA"
+            }
+        },
+        {
+            "staff": "watanabe",
+            "attr": {
+                "name": "渡辺 五郎",
+                "corp": "ARIGATO"
+            }
+        },
+        {
+            "staff": "ito",
+            "attr": {
+                "name": "伊藤 六郎",
+                "corp": "KIZUNA"
+            }
+        },
+        {
+            "staff": "yamamoto",
+            "attr": {
+                "name": "山本 七郎",
+                "corp": "ARIGATO"
+            }
+        },
+        {
+            "staff": "nakamura",
+            "attr": {
+                "name": "中村 八郎",
+                "corp": "KIZUNA"
+            }
+        },
+        {
+            "staff": "kobayashi",
+            "attr": {
+                "name": "小林 九郎",
+                "corp": "ARIGATO"
+            }
+        },
+        {
+            "staff": "yoshida",
+            "attr": {
+                "name": "吉田 十郎",
+                "corp": "KIZUNA"
+            }
+        }
     ]
 }
